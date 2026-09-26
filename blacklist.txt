@@ -1,0 +1,22 @@
+! Title: Custom DNS Blacklist
+! Description: custom DNS blacklist for AdGuard Home
+! Homepage: https://github.com/elyan-gruau/DNS-Blacklist
+! License: https://github.com/elyan-gruau/DNS-Blacklist/blob/main/LICENSE
+! Version: 1.0
+! Last modified: 2026-09-26
+! Expires: 1 days (update frequency recommended)
+! Syntax: AdGuard Home / Adblock-style
+
+! ===== Ads =====
+||ads.example.com^
+||adservice.example.com^
+
+! ===== Tracking / Analytics =====
+||analytics.example.com^
+||tracking.example.com^
+
+! ===== whitelist =====
+@@||sous-domaine-autorise.example.com^
+
+! =====  IPv4/IPv6 =====
+0.0.0.0 mauvais-domaine.com
