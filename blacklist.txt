@@ -45,6 +45,15 @@
 ||pubads.g.doubleclick.net/gampad/ads^
 ||securepubads.g.doubleclick.net/gampad/ads^
 ||googleads.g.doubleclick.net/pagead/ads^
+||ad.doubleclick.net^
+||adclick.g.doubleclick.net^
+||cm.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||static.doubleclick.net^
+||mediavisor.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||pagead.l.doubleclick.net^
 
 ! ===== Tracking / Analytics =====
 ||analyticsengine.s3.amazonaws.com^
