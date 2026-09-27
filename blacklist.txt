@@ -84,6 +84,7 @@
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
+||ads.vk.com^
 
 
 ! ===== Tracking / Analytics =====
@@ -129,6 +130,8 @@
 ||sync.crwdcntrl.net^
 ||idsync.rlcdn.com^
 ||api.rlcdn.com^
+||pixel.quora.com^
+||qevents.quora.com^
 
 ! ===== whitelist =====
 @@||sous-domaine-autorise.example.com^
