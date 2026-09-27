@@ -8,6 +8,8 @@
 
 ! ===== Ads =====
 ||ads.youtube.com^
+||s.youtube.com^
+||redirector.googlevideo.com^
 ||advertising-api-eu.amazon.com^
 ||adservice.example.com^
 ||aan.amazon.com^
@@ -85,6 +87,14 @@
 ||events3alt.adcolony.com^
 ||wd.adcolony.com^
 ||ads.vk.com^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||webview.unityads.unity3d.com^
+||bat.bing.com^
+||c.bing.com^
+||ssl.p.jwpcdn.com^
+||bea4.v.fwmrm.net^
+||metrics.brightcove.com^
 
 
 ! ===== Tracking / Analytics =====
@@ -103,6 +113,10 @@
 ||munchkin.marketo.net^
 ||click.mailchimp.com^
 ||analytics.adobe.io^
+||analytics.google.com^
+||www.google-analytics.com^
+||claritybt.freshmarketer.com^
+||iot-eu-logser.realme.com^
 
 ! ===== Risky =====
 ||mineralt.io^
@@ -112,6 +126,7 @@
 ||popads.net^
 ||popcash.net^
 ||exoclick.com^
+||statdynamic.com^
 
 !==== Privacy ====
 ||onetag-sys.com^
@@ -132,9 +147,19 @@
 ||api.rlcdn.com^
 ||pixel.quora.com^
 ||qevents.quora.com^
+||appsflyer.com^
+||app.appsflyer.com^
+||app.adjust.com^
+||api2.branch.io^
+||control.kochava.com^
+||sdk-api-v1.singular.net^
+||wzrkt.com^
+||pixel.facebook.com^
+||graph.facebook.com^
+
 
 ! ===== whitelist =====
-@@||sous-domaine-autorise.example.com^
+@@||mafreebox.freebox.fr^
 
 ! =====  IPv4/IPv6 =====
 0.0.0.0 mauvais-domaine.com
