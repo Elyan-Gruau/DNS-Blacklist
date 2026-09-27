@@ -27,10 +27,24 @@
 ||ads.microsoft.com^
 ||juicyads.com^
 ||i.instagram.com^
+||graph.instagram.com^
 ||sc-static.net^
 ||tr.snapchat.com^
 ||ads.pinterest.com^
 ||dai.google.com^
+||c.bing.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||tagmanager.google.com^
+||d.reddit.com^
+||widgets.pinterest.com^
+||advertising.apple.com^
+||browser.events.data.msn.com^
+||device-metrics-us.amazon.com^
+||pubads.g.doubleclick.net/gampad/ads^
+||securepubads.g.doubleclick.net/gampad/ads^
+||googleads.g.doubleclick.net/pagead/ads^
 
 ! ===== Tracking / Analytics =====
 ||analyticsengine.s3.amazonaws.com^
@@ -39,6 +53,12 @@
 ||analytics.yahoo.com^
 ||fingerprintjs.com^
 ||fpjs.io^
+||analytics.query.yahoo.com^
+||eu.posthog.com^
+||bnc.lt^
+
+! ===== Risky =====
+||mineralt.io^
 
 ! ===== whitelist =====
 @@||sous-domaine-autorise.example.com^
