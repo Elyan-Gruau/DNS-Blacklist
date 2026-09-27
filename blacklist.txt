@@ -102,6 +102,24 @@
 ||popcash.net^
 ||exoclick.com^
 
+!==== Privacy ====
+||onetag-sys.com^
+||pippio.com^
+||id5-sync.com^
+||sync.mathtag.com^
+||pixel.mathtag.com^
+||bcp.crwdcntrl.net^
+||sync-tm.everesttech.net^
+||prod.uidapi.com^
+||siftscience.com^
+||cdn.siftscience.com^
+||cdn.permutive.com^
+||tags.crwdcntrl.net^
+||ad.crwdcntrl.net^
+||sync.crwdcntrl.net^
+||idsync.rlcdn.com^
+||api.rlcdn.com^
+
 ! ===== whitelist =====
 @@||sous-domaine-autorise.example.com^
 
