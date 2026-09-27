@@ -2,7 +2,7 @@
 ! Description: custom DNS blacklist for AdGuard Home
 ! Homepage: https://github.com/elyan-gruau/DNS-Blacklist
 ! Version: 1.0
-! Last modified: 2026-09-26
+! Last modified: 2026-09-27
 ! Expires: 1 days (update frequency recommended)
 ! Syntax: AdGuard Home / Adblock-style
 
@@ -54,6 +54,28 @@
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 ||pagead.l.doubleclick.net^
+||tremorhub.com^
+||ads.tremorhub.com^
+||dai.google.com^
+||pubads.g.doubleclick.net/gampad/ads^
+||securepubads.g.doubleclick.net/gampad/ads^
+||api.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||tracking.miui.com^
+||samsungads.com^
+||smetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||analytics-api.samsunghealthcn.com^
+||config.samsungads.com^
+||events.reddit.com^
+||events.redditmedia.com^
+||d.reddit.com^
+||ads.linkedin.com^
+||px.ads.linkedin.com^
+||dc.ads.linkedin.com^
+
 
 ! ===== Tracking / Analytics =====
 ||analyticsengine.s3.amazonaws.com^
@@ -65,9 +87,20 @@
 ||analytics.query.yahoo.com^
 ||eu.posthog.com^
 ||bnc.lt^
+||vortex.data.microsoft.com^
+||firebase-settings.crashlytics.com^
+||track.hubspot.com^
+||munchkin.marketo.net^
+||click.mailchimp.com^
 
 ! ===== Risky =====
 ||mineralt.io^
+||coinimp.com^
+||www.coinimp.com^
+||monerominer.rocks^
+||popads.net^
+||popcash.net^
+||exoclick.com^
 
 ! ===== whitelist =====
 @@||sous-domaine-autorise.example.com^
