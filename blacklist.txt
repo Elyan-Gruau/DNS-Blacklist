@@ -14,7 +14,9 @@
 ||fls-na.amazon.com^
 ||adservice.google.com^
 ||googleadservices.com^
+||googleads.g.doubleclick.net^
 ||pagead2.googleadservices.com^
+||pagead2.googlesyndication.com
 ||afs.googlesyndication.com^
 ||m.doubleclick.net^
 ||auction.unityads.unity3d.com^
@@ -75,6 +77,13 @@
 ||ads.linkedin.com^
 ||px.ads.linkedin.com^
 ||dc.ads.linkedin.com^
+||media.net^
+||static.media.net^
+||contextual.media.net^
+||ads30.adcolony.com^
+||adc3-launch.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
 
 
 ! ===== Tracking / Analytics =====
@@ -92,6 +101,7 @@
 ||track.hubspot.com^
 ||munchkin.marketo.net^
 ||click.mailchimp.com^
+||analytics.adobe.io^
 
 ! ===== Risky =====
 ||mineralt.io^
