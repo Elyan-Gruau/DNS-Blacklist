@@ -162,6 +162,7 @@
 @@||mafreebox.freebox.fr^
 @@||marketplace.signalrgb.com^
 @@||as.atlassian.com^
-
+@@||web-security-reports.services.atlassian.com^
+@@||atlassian-cookies.prod-east.frontend.public.atl-paas.net^
 ! =====  IPv4/IPv6 =====
 0.0.0.0 mauvais-domaine.com
