@@ -164,5 +164,8 @@
 @@||as.atlassian.com^
 @@||web-security-reports.services.atlassian.com^
 @@||atlassian-cookies.prod-east.frontend.public.atl-paas.net^
+@@||requirementyogi.cloud^
+@@||requirementyogi.com^
+
 ! =====  IPv4/IPv6 =====
 0.0.0.0 mauvais-domaine.com
