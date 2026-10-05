@@ -167,6 +167,7 @@
 @@||requirementyogi.cloud^
 @@||requirementyogi.com^
 @@||checkonline.home-assistant.io^
+@@||auth.atlassian.com^
 
 ! =====  IPv4/IPv6 =====
 0.0.0.0 mauvais-domaine.com
