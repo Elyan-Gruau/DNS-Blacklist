@@ -166,6 +166,7 @@
 @@||atlassian-cookies.prod-east.frontend.public.atl-paas.net^
 @@||requirementyogi.cloud^
 @@||requirementyogi.com^
+@@||checkonline.home-assistant.io^
 
 ! =====  IPv4/IPv6 =====
 0.0.0.0 mauvais-domaine.com
