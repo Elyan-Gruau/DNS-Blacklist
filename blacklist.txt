@@ -168,6 +168,7 @@
 @@||requirementyogi.com^
 @@||checkonline.home-assistant.io^
 @@||auth.atlassian.com^
+@@||ms-gateway-customer-portal.prod.fonciamillenium.net^
 
 ! =====  IPv4/IPv6 =====
 0.0.0.0 mauvais-domaine.com
